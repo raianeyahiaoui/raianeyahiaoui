@@ -19,4 +19,4 @@ My work involves everything from foundational computer vision techniques like SI
 Right now, I'm focused on documenting my Master's thesis projects and exploring efficient deep learning models. I'm always looking for new challenges in multimodal AI and robust biometric systems.
 
 ### 📫 How to reach me:
-The best way to reach me is via [Email](mailto:ikba.king2015@gmail.com) or a message on [LinkedIn](https://www.linkedin.com/in/yahiaoui-raiane-253911262/).
+The best way to reach me is via [Email](mailto:yahiaouiraiane7@gmail.com) or a message on [LinkedIn](https://www.linkedin.com/in/yahiaoui-raiane-253911262/).
