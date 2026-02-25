@@ -8,7 +8,7 @@
 
 I am a Telecommunications Systems Engineer with a deep passion for the intersection of **Artificial Intelligence**, **Computer Vision**, and **Cybersecurity**. I specialize in building and deploying end-to-end machine learning systems to solve real-world challenges.
 
-My work involves everything from foundational computer vision techniques like SIFT to modern deep learning architectures and state-of-the-art LLMs. I am currently seeking a Ph.D. position in Germany to apply my skills to cutting-edge research.
+My work involves everything from foundational computer vision techniques like SIFT to modern deep learning architectures and state-of-the-art LLMs. 
 
 ### 🔭 My Core Competencies:
 -   **Deep Learning & Computer Vision:** TensorFlow, Keras, OpenCV, Pattern Recognition, Transfer Learning, Image Segmentation.
